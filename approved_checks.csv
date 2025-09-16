@@ -1,0 +1,2 @@
+timestamp,customer_name,check_amount,payee_name,check_date,id_type,id_number,phone1,phone2,cashier_initials,manager_name,manager_approved,notes
+2025-09-02T09:37:16.420225,,23.0,f,3,t,4,343343434,34343434,G,,N,Logged as <= $300
